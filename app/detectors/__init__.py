@@ -1,0 +1,1 @@
+"""Signal detector package."""
